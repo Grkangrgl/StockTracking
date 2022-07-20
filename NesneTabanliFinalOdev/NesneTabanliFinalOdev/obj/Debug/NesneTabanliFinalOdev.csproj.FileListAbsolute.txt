@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\NesneTabanliFinalOdev\NesneTabanliFinalOdev\bin\Debug\NesneTabanliFinalOdev.exe.config
+C:\Users\LENOVO\source\repos\NesneTabanliFinalOdev\NesneTabanliFinalOdev\bin\Debug\NesneTabanliFinalOdev.exe
+C:\Users\LENOVO\source\repos\NesneTabanliFinalOdev\NesneTabanliFinalOdev\bin\Debug\NesneTabanliFinalOdev.pdb
+C:\Users\LENOVO\source\repos\NesneTabanliFinalOdev\NesneTabanliFinalOdev\obj\Debug\NesneTabanliFinalOdev.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\NesneTabanliFinalOdev\NesneTabanliFinalOdev\obj\Debug\NesneTabanliFinalOdev.Form1.resources
+C:\Users\LENOVO\source\repos\NesneTabanliFinalOdev\NesneTabanliFinalOdev\obj\Debug\NesneTabanliFinalOdev.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\NesneTabanliFinalOdev\NesneTabanliFinalOdev\obj\Debug\NesneTabanliFinalOdev.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\NesneTabanliFinalOdev\NesneTabanliFinalOdev\obj\Debug\NesneTabanliFinalOdev.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\NesneTabanliFinalOdev\NesneTabanliFinalOdev\obj\Debug\NesneTabanliFinalOdev.exe
+C:\Users\LENOVO\source\repos\NesneTabanliFinalOdev\NesneTabanliFinalOdev\obj\Debug\NesneTabanliFinalOdev.pdb
